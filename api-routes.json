@@ -1,0 +1,5 @@
+{
+    "/api/tasks": "/tasks",
+    "/api/tasks/task": "/tasks",
+    "/api/userProfile": "/userProfile"
+}

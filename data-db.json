@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server --port=4100 --routes api-routes.json --watch C:/NodeProjects/json-server/src/assets/json/data-db.json",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "userProfile": {
+    "id": "12345-hdfcs-sadsf-23232",
+    "name": "typicode",
+    "regNumber": "123456",
+    "address": {
+        "address1": "address1",
+        "address2": "address1",
+        "address3": "address1"
+    }
+  }
+}
